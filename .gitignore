@@ -1,0 +1,16 @@
+## Folders
+*debug*
+*release*
+*build*
+.vscode
+
+## Files
+*.user
+*.user.*
+*.dtmp
+*.bkp
+.$*
+
+*.exe
+*.out
+*.log
